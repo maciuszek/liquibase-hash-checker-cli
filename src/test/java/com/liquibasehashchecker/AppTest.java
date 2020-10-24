@@ -1,4 +1,4 @@
-package com.liquibase-hash-checker;
+package com.liquibasehashchecker;
 
 import static org.junit.Assert.assertTrue;
 
